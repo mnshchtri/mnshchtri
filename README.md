@@ -3,7 +3,7 @@
 
 Independent Security Researcher
 
-Skills: C / C++ / Python / JS / HTML / CSS / Git / Embedded System
+Skills: C / C++ / Python / JS / HTML / CSS / Git / Embedded System / Music / DSP
 
 
 
