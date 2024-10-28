@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hello! I'm Manish Karki, also known as Neox — a Linux enthusiast and self-taught technologist with a passion for hands-on learning. From coding to ethical hacking, I’m always exploring new tech and merging my love for music and code. Driven by curiosity, I aim to shape and reimagine the digital world.
 
 
